@@ -1,5 +1,2 @@
-
-vim mohan.txt
-i hity
-
-
+hi world
+till
