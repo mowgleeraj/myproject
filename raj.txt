@@ -3,3 +3,4 @@ nav gotalla
 holy
 ok na git
 nodu ega
+we need to save before pull and push
