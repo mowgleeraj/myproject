@@ -1,12 +1,6 @@
-hi world
-till
-line 2 
-line four
-fifth line
-sith line
-7 line
-8 th line
-9th line
-10th line appi
-11th line appi 
-adding to learn
+  firefox:
+    image: selenium/standalone-firefox-debug:2.52.0
+  chrome:
+    image: selenium/standalone-chrome-debug:2.52.0
+  mongo:
+    image: mongo
